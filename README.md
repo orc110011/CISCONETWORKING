@@ -47,7 +47,7 @@ Configuring Access Points.
 We then create InterVlans so that we can create multiple vlans from a single VLan, using Gig0 as a default gateway.  Router(config)#gig0/0.10 is the command. Afterwards; we have to specify encapsulation to aggregate logic interfaces using Router(config-subif)#encapsulation dot1Q.10 (..20&30) and assign the vlans their respective ip addresses and subnet mask.  For Vlan 10 we use: Router(config-subif)#ip address 192.168.1.1 255.255.255.192
 
 <p align="center">
-<img src="https://i.imgur.com/JKuzkbH.png height="65%" width="65%" />
+<br />
 <br />
 <br />
 -Router configuration for DHCP, DNS, DOMAIN, and DEFAULT GATEWAY services <br/>
@@ -58,7 +58,7 @@ Router(config)#servic dhcp\Router(config)#ip dhcp pool Admin-Pool (Finance, CS)\
 <img src="https://i.imgur.com/ur9GHjC.png height="65%" width="65%" />
 <br />
 <br />
-CONFIGURING DEVICES FOR DHCP
+CONFIGURING DEVICES FOR DHCP <br/>
 <br />
 <br />
 <p align="center">
@@ -68,14 +68,20 @@ CONFIGURING DEVICES FOR DHCP
 <p align="center">
 -All devices, including smartphones and laptops are connected AND can ping each other!  <br/>
 <p align="center">
-<img src="https://i.imgur.com/EsbbsF2.png height="65% width="65%"  />
-<img src="https://i.imgur.com/yJxqniL.png height="65% width="65%"  />
-<img src="https://i.imgur.com/yJxqniL.png  height="65%" width="65%" />
-<img src="https://i.imgur.com/s3vjRaM.png height="65%" width="65%" />
-<img src=https://i.imgur.com/ea7odMj.png height="65%" width="65% />
+<br />
+<br />
+<img src="https://i.imgur.com/EsbbsF2.png height="65%" width="65%"  />
+<img src="https://i.imgur.com/yJxqniL.png height="65%" width="65%"  />
 <p align="center">
-<img src="https://i.imgur.com/ea7odMj.png height="65%" width="65% />
-
+<br />
+<br />
+<img src="https://i.imgur.com/ZL3uJ8M.png height="65%" width="65%" />
+<br />
+<br />
+<img src="https://i.imgur.com/s3vjRaM.png height="65%" width="65%" />
+<br />
+<br />
+<img src="https://i.imgur.com/ea7odMj.png height="65" width="65%" />
 
 
 

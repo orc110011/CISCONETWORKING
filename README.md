@@ -1,7 +1,7 @@
 # CISCONETWORKING
 
 <h2>Description</h2>
-Abacus company is a fast-growing company in Las Vegas, Nevada with more than 2 million customers, globally.  The company deals with selling and buying of nft's, which are basically operated from the headquarters.  The company is intendng to open a branch near the local community of Fremont.  Thus, the company required an IT grad to design the network for the branch.  The network is intended to operate seperately from the HQ network.
+Abacus company is a fast-growing company in Washington,DC with more than 2 million customers, globally.  The company deals with selling and buying of nft's, which are basically operated from the headquarters.  The company is intendng to open a branch near the local community of Fremont.  Thus, the company required an IT grad to design the network for the branch.  The network is intended to operate seperately from the HQ network.
 Being a small network, the company has the following requirements during implementation;
 a) One router and one switch to be used--CISCO.
 b) 3 Departments (Admin\IT, Finance/HR and Customer Service/Reception)
